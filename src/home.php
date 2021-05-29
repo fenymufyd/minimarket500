@@ -1,5 +1,5 @@
 <div class="section">
-<marquee><h5>Selamat Datang <?= (isset($_SESSION['userName']) ? $_SESSION['userName'] : "pengunjung");?>, Di Minimarket 500 Halal Jihad</h5></marquee>
+<marquee><h5>Selamat Datang <?= (isset($_SESSION['userName']) ? $_SESSION['userName'] : "pengunjung");?>, Di Minimarket 500</h5></marquee>
 </div>
 </div>
 
