@@ -1,7 +1,7 @@
 ## Deskripsi
-Prototip web dinamis
-Durasi Pengerjaan : 1 Bulan (Oktober), ±12 Jam
-Tanggal Dikumpul : 28 Oktober 2019
+Prototip web minimarket (grocery/convenience store) dinamis sederhana dengan CRUD\
+Durasi Pengerjaan 1 Bulan (Oktober), ±12 Jam\
+Selesai 28 Oktober 2019
 
 ## Fitur
 * CRUD (6 Tabel + 1 View)
